@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roaa 
-- I’m a junior game developer 
-- I’m currently learning XR and AI in game development
+- I’m a Game developer and a software engineer
+- I make games and realtime experiences with Unity engine
 - 📫 ruaakhuldoon.26@gmail.com
 
 <!---
