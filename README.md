@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Roaa 
 - I’m a game programmer and a software engineer
-- I make games and realtime experiences with Unity 
 - 📫 ruaakhuldoon.26@gmail.com
 - **[Portfolio](https://roaakhaldoon.net/)**
 <!---
